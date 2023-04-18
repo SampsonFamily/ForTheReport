@@ -198,5 +198,15 @@
             <media:content type="image/jpeg" url="slides/S__19177485.jpg" width="600" height="800"/>
             <guid isPermaLink="false">slides/S__19177485.jpg</guid>
         </item>
+        <item>
+            <title>S__19177486</title>
+            <link>slides/S__19177486.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 23:08:24 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/S__19177486.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/S__19177486.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/S__19177486.jpg</guid>
+        </item>
     </channel>
 </rss>
